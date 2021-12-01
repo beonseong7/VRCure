@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hands
+  - Tool
+  - Movable
+  - realbag
+  - Portal
+  - navmesh
+  - start_zone
+  - building
+  - stalker
+  - Move_AI
+  - Stand_AI
+  - AI_zone
+  - Drunken_AI
+  - Exit_zone
+  - CCTV
+  - Emegency
+  - Explain_AI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - NPC
+  - Tool
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
